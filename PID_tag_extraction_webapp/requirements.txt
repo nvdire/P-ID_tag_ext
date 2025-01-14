@@ -1,4 +1,0 @@
-streamlit
-PyMuPDF
-opencv-python
-google-generativeai
